@@ -1,0 +1,4 @@
+name: FakeXray
+version: '1.0'
+main: org.example.jinhhyu.fakeXray.FakeXray
+api-version: '1.21'
